@@ -1,4 +1,3 @@
-const { spyOn } = require("expect/lib");
 
 function receivesAFunction(callback) {
 
